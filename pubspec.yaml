@@ -1,7 +1,6 @@
 name: om_sdk
 description: "A Flutter SDK for Orange Money integration "
 version: 0.0.1
-homepage: https://yourwebsite.com
 repository: https://github.com/rooseveltlacouronne/om_sdk
 
 
